@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Bittu Kumar Singh, an AI Engineer with 2+ years of experience building production-grade AI applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, NLP, and AWS.
+I'm Bittu Kumar Singh, an AI Engineer with 2.5+ years of experience building production-grade AI applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, NLP, and AWS.
 
 🚀 What I work on:
 
