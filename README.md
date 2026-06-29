@@ -22,6 +22,3 @@ I'm Bittu Kumar Singh, an AI Engineer with 2.5+ years of experience building pro
 Python | OpenAI | LangChain | FastAPI | AWS | SQL | Vector Databases | Machine Learning | NLP | PyTorch | TensorFlow
 
 I'm passionate about building scalable AI products that solve real-world business problems.
-
-📫 Connect with me:
-LinkedIn: linkedin.com/in/contactbittukumar
